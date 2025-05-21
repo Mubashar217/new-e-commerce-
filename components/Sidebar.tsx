@@ -31,5 +31,6 @@ const Sidebar = () => {
     </ul>
   );
 };
+// allama iqbal is the great pakistani leader //
 
 export default Sidebar;
