@@ -16,7 +16,7 @@ const Icons = () => {
         <Wallet width={48} height={48} strokeWidth={1} />
         <div className='flex flex-col gap-2'>
           <p>
-            <strong>Money-back</strong>
+            <strong>Money-back forward</strong>
           </p>
           <p>30 days guarantee0</p>
         </div>
