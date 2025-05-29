@@ -52,7 +52,7 @@ const Categories = () => {
           placeholder='blur'
           loading='lazy'
         />
-        <Overlay category='Handbags' />
+        <Overlay category='Handbag' />
       </Link>
     </div>
   );
