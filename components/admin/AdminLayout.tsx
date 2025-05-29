@@ -15,7 +15,7 @@ const AdminLayout = async ({
       <div className='relative flex flex-grow p-4'>
         <div>
           <h1 className='text-2xl'>Unauthorized</h1>
-          <p>Admin permission required</p>
+          <p>Admin permission required.</p>
         </div>
       </div>
     );
